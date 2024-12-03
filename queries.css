@@ -1,0 +1,624 @@
+@media(max-width:1440px) {
+
+
+    .nav {
+      padding: 16px 32px;
+    }
+
+    .header {
+        padding: 100px 32px;
+    }
+    .h1 {
+        font-size: 47px;
+        /* font-weight: 700; */
+    }
+
+    .p {
+        color: white;
+        font-weight: 400;
+        margin-top: 24px;
+        margin-bottom: 60px;
+        font-size: 18px;
+    }
+
+    .header2 {
+        padding: 140px 32px;
+    }
+
+    .p2 {
+        font-size: 18px;
+        font-weight: 400;
+    }
+
+    .header3 {
+        padding: 140px 32px;
+        gap: 160px;
+    }
+
+    .h3 {
+        font-size: 64px;
+        font-weight: 700;
+    }
+
+    .p3 {
+        font-size: 18px;
+        font-weight: 400;
+
+    }
+    .btn5 {
+        border-radius: 9px;
+    }
+
+    .headerss {
+        padding: 140px 32px;
+        gap: 98px;
+    }
+    .btn3 {
+    padding: 20px 40px;
+    border-radius: 8px;
+    display: flex;
+    gap: 10px;
+    }
+
+    .newoneheader3 {
+        padding: 140px 32px;
+    }
+
+    .cards{
+      padding: 140px 32px;
+    }
+
+    .textcenter {
+        padding: 140px 32px;
+    }
+
+    .newcardmain {
+      padding: 140px 32px;
+    }
+  
+    .p4 {
+        padding: 0px 225px;
+    }
+
+    .top {
+        padding: 140px 32px;
+    }
+    ul p {
+        font-size: 12px;
+        line-height: 15px;
+        font-weight: 600;
+      }
+      
+      .ul-icon {
+        height: 25px;
+        width: 25px;
+      }
+
+      .icons {
+        height: 25px;
+        width: 25px;
+      }
+
+      .logoos {
+        padding: 140px 32px;
+      }
+
+      .app {
+        padding: 140px 32px;
+      }
+
+      .newcard {
+        padding: 140px 32px;
+      }
+
+      .newdivh {
+        padding: 0% 25%;
+      }
+      .newdiv {
+        padding: 140px 32px;
+      }
+   
+      .footer {
+        padding: 140px 32px;
+      }
+
+      /* .ul2 {
+        width: 1335px;
+      } */
+}
+
+
+@media(max-width:1700px) {
+    ul p {
+        font-size: 12px;
+        line-height: 15px;
+        font-weight: 600;
+      }
+      
+      .ul-icon {
+        height: 25px;
+        width: 25px;
+      }
+}
+
+@media(max-width:1152px) {
+  .nav {
+    padding: 16px 32px;
+  }
+
+  .header {
+    padding: 140px 32px;
+  }
+
+  .h2 {
+    font-size: 64px;
+  }
+
+  .h3 {
+    font-size: 64px;
+  }
+
+  .textcenter {
+    padding: 140px 32px;
+    padding-right: 521px;
+    text-align: left;
+  }
+
+  .sectionh {
+    font-size: 64px;
+  }
+  
+  .logoss {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 70px;
+  }
+
+  .apph {
+    font-size: 64px;
+    font-weight: 700;
+  }
+}
+
+
+@media(max-width:768px) {
+  .nav {
+    padding: 16px 32px;
+    justify-content: space-between;
+    /* background-image: url(./img/Btn.svg); */
+  }
+
+  .navdiv {
+    display: none;
+  }
+
+  .menu {
+    color: white;
+    width: 42px;
+    height: 34px;
+  }
+
+  .h1 {
+    font-size: 55px;
+    font-weight: 700;
+    text-align: center;
+  }
+  
+  .p {
+    text-align: center;
+  }
+
+  .newbtn3 {
+    place-items: center;
+  }
+
+  .header {
+    padding: 140px 20px 100px 20px;
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+  .header2 {
+    padding: 100px 20px;
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+  .h2 {
+    text-align: center;
+  }
+
+  .p2 {
+    text-align: center;
+  }
+
+  .newbtn4 {
+    place-items: center;
+    margin-top: 60px;
+  }
+
+  .header3 {
+    padding: 100px 20px;
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
+  .h3 {
+    text-align: center;
+  }
+
+  .p3 {
+    text-align: center;
+  }
+
+  .btn5 {
+    place-items: center;
+  }
+
+  .newbtn5 {
+    place-items: center;
+  }
+
+  .headerss {
+    padding: 100px 32px;
+    grid-template-columns: 1fr;
+  }
+
+  .newnewbtn3 {
+    place-items: center;
+  }
+
+  .newoneheader3 {
+    display: grid;
+    grid-template-columns: 1fr;
+    padding: 140px 20px;
+  }
+
+  .newcardmain {
+    padding: 140px 20px;
+  }
+
+  .newnewbtn5 {
+    place-items: center;
+  }
+
+  .p4 {
+    padding: 0px 0px;
+  }
+
+  .textcenter {
+    padding-right: 0px;
+  }
+
+  /* .h42 {
+    text-align: center;
+  } */
+
+  /* .p4 {
+    text-align: center;
+  } */
+
+  /* .cards {
+    padding: 0px 0px;
+    width: 1481px;
+    height: 711px;
+  } */
+
+  .top {
+    padding: 140px 20px;
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 100px;
+  }
+
+  .hp22 {
+    text-align: center;
+  }
+
+  .hp23 {
+    text-align: center;
+  }
+
+  .newnewbtns {
+    place-items: center;
+  }
+
+  .logoos {
+    padding: 140px 20px;
+  }
+
+  .logoss {
+    display: grid;
+    grid-template-columns: 1fr;
+    place-items: center;
+    gap: 100px;
+  }
+
+  .app {
+    padding: 140px 20px;
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+  .apph {
+    text-align: center;
+  }
+
+  .appp {
+    text-align: center;
+  }
+
+  .appbtns {
+    place-items: center;
+  }
+
+  .appimg {
+    width: 100%;
+  }
+
+  .newcard {
+    padding: 140px 20px;
+  }
+
+  .newhhh {
+    font-size: 54px;
+    line-height: 62px;
+  }
+
+  .newdivh {
+    padding: 0px 0px;
+  }
+
+  .newdiv {
+    text-align: justify;
+  }
+
+  .footer {
+    padding: 80px 32px;
+  }
+
+  .footerdiv {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+  .footerh {
+    font-size: 28px;
+    font-weight: 700;
+  }
+
+  .footerdivp {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+  }
+
+  .cards {
+    overflow:scroll;
+    scrollbar-width: none;
+  }
+
+  .card1, .card2 {
+    width: 400px;
+  } 
+
+
+  .newcard {
+    overflow: scroll;
+    scrollbar-width: none;
+  }
+
+
+  .newcard1, .newcard2 {
+    padding: 20px;
+    width: 300px; 
+  }
+
+  .footerdivp {
+    margin-right: 515px;
+  }
+
+  .ul2 {
+    display: grid;
+  }
+
+  .ul2child {
+    gap: 43px;
+  }
+}
+
+
+@media(max-width: 320px) {
+  .nav {
+    padding: 16px;
+  }
+
+  .header {
+    padding: 80px 16px;
+  }
+  
+  .h1 {
+    font-size: 36px;
+  }
+
+  .header2 {
+    padding: 80px 16px;
+  }
+
+  .h2 {
+    font-size: 36px;
+  }
+
+  .p2 {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+  }
+
+  .header3 {
+    padding: 80px 16px;
+  }
+
+  .h3 {
+    font-size: 36px;
+  }
+
+  .headerss {
+    padding: 80px 16px;
+  }
+
+  .p {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+  }
+
+  .newoneheader3 {
+    padding: 80px 16px;
+  }
+
+  /* .h4 {
+    padding: 80px 16px;
+  } */
+
+  .h42 {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 45px;
+  }
+
+  .p4 {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+  }
+
+  .newcardmain {
+    padding: 80px 16px;
+  }
+
+  .card1, .card2 {
+    padding: 20px;
+  }
+
+  .textcenter {
+    padding: 100px 16px;
+  }
+
+  .sectionh {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 45px;
+  }
+
+  .top {
+    padding: 80px 16px;
+  }
+
+  .hp22 {
+    font-size: 36px;
+    line-height: 45px;
+    font-weight: 700;
+  }
+
+  .hp23 {
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 400;
+  }
+
+  .logoos {
+    padding: 80px 16px;
+  }
+
+  .logoh {
+    font-size: 36px;
+    line-height: 45px;
+    font-weight: 700;
+  }
+
+  .app {
+    padding: 80px 16px;
+  }
+
+  .apph {
+    font-size: 36px;
+    line-height: 45px;
+    font-weight: 700;
+  }
+
+  .newcard {
+    padding: 100px 16px;
+  }
+
+  .newcardh {
+    font-size: 40px;
+    line-height: 52px;
+    font-weight: 700;
+  }
+
+  .card1img {
+    display: grid;
+    gap: 24px;
+  }
+
+  .card1hp p {
+    line-height: 23px;
+  }
+
+  .newdiv {
+    padding: 100px 16px;
+    display: grid;
+    gap: 19px;
+  }
+
+  .newhhh {
+    font-size: 40px;
+    line-height: 52px;
+    font-weight: 700;
+  }
+
+  .newdivp {
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 400;
+  }
+
+  .footer {
+    align-items: center;
+    padding: 140px 16px 32px 16px;
+  }
+
+  .footerp {
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 400;
+  }
+
+  .footerdivp {
+    margin-right: 0px;
+  }
+
+  .ul2child {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .footerdiv {
+    text-align: center;
+  }
+
+  .footerdivb {
+    display: flex;
+    justify-content: center;
+  }
+
+  .ul2 {
+    display: grid;
+    justify-content: center;
+  }
+
+  .footerlogo {
+    display: flex;justify-content: center;
+  }
+}
